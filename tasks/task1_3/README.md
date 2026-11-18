@@ -1,6 +1,6 @@
 # Task 1.3
 
-1. Create a file `form.html` in the `tasks/task1_3` directory of your
+1. Create a file `test.html` in the `tasks/task1_3` directory of your
    repository, containing the basic structure of an HTML document. Give
    your document the title "Task 1.3".
 

@@ -1,7 +1,7 @@
 # Task 3.2
 
 In the directory `tasks/task3_2` of your repository, create a file named
-`form.html`, containing the following HTML document:
+`test.html`, containing the following HTML document:
 
 ```html
 <!DOCTYPE html>
